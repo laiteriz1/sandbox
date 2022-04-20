@@ -5,10 +5,8 @@ public class Sandbox {
 		
 	public static void main(String[] args) {			
 		try {		
-
-			System.out.println("Very hello world 1");
-			System.out.println("Very hello world 3");
-	
+			System.out.println("Very hello world");
+			
 			
 		} catch(Exception e){			
 			e.printStackTrace();			
