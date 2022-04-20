@@ -5,7 +5,7 @@ public class Sandbox {
 		
 	public static void main(String[] args) {			
 		try {		
-			System.out.println("Hello world");
+			System.out.println("Very hello world");
 			
 			
 		} catch(Exception e){			
